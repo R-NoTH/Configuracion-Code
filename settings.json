@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Noctis Bordo",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 18,
+    "editor.folding": false, // Elimina el espaciado
+    "editor.glyphMargin": false, // Elimina el margen izquierdo (Se usa principalmente para depurar)
+    //mause
+    "editor.cursorStyle": "line-thin", // Estilo del cursor: línea delgada
+    "editor.cursorBlinking": "blink", // Animación del cursor
+    "editor.hideCursorInOverviewRuler": true, // Oculta la marca del cursor en el editor
+    // Extra
+    "editor.matchBrackets": "never", // Elimina el resaltado de los corchetes
+    "editor.colorDecorators": false, // Elimina los recuadros de color
+    "editor.suggestSelection": "first", // Preselecciona la primera opción de las sugerencias
+    "editor.minimap.enabled": false,  // Oculta el mini mapa de código
+    // Archivos
+    "files.trimFinalNewlines": true, // Remueve las líneas extras al final del archivo
+    "files.insertFinalNewline": true, // Inserta una línea al final del archivo
+    "files.trimTrailingWhitespace": true,  // Remueve los espacios extras al final de una línea
+    // Explorador
+    "explorer.autoReveal": false, // Evita que se desplieguen los archivos al seleccionarlos
+    "explorer.openEditors.visible": 0, // Evita que se muestren los archivos abiertos
+    // terminal
+    "terminal.integrated.fontSize": 15, // Tamaño de fuente
+    "terminal.integrated.fontFamily": "JetBrains Mono", // Familia de la fuente
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.visible": false, // Deshabilita las rutas de navegación
+}
